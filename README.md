@@ -6,19 +6,6 @@ This repository contains my personal solutions to the exercises across different
 
 ## 📁 Repository Structure
 
-exercism-solutions/
-├── python/
-│ ├── hello-world/
-│ ├── leap/
-│ └── ...
-├── javascript/
-│ ├── two-fer/
-│ └── ...
-├── rust/
-│ ├── gigasecond/
-│ └── ...
-└── ...
-
 Each exercise folder typically includes:
 - `README.md`: Description of the exercise (provided by Exercism)
 - `*.ext`: My solution file(s), where `ext` matches the language (e.g., `.py`, `.js`, `.rs`)
